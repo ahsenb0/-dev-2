@@ -1,2 +1,5 @@
 # -dev-2
 Bana Göre Algoritma2 Sorusu
+Benim Sorum :
+Ortalama isimli bir sınıf tanımlayınız. Bu sınıfın s1, s2, s3, s4 isimli int tipinde dört tane, ortalama isimli double tipinde bir tane özelliği bulunmaktadır. Ortalama özelliği s1, s2, s3 ve s4 özelliklerinin ortalamasını tutmaktadır. Ortalama sınıfı HesaplaAritmetikOrt( ) isimli iki farklı imzası olan fonksiyon bulundurmaktadır. İki parametre alan fonksiyon bu iki değerin, dört parametre alan fonksiyon ise dört değerin aritmetik ortalamasını hesaplamaktadır. HesaplaHarmonikOrt( ) fonksiyonu parametre olarak gelen dört sayının harmonik ortalamasını, HesaplaGeometrikOrt( ) fonksiyonu ise parametre olarak gelen dört sayının geometrik ortalamasını hesaplamaktadır.
+Ortalama sınıfından türetilmiş StandartSapma isimli sınıfın ortalama, toplam isimli int tipinde, stoplamcift ve stoplamtek isimli boolean tipinde özellikleri bulunmaktadır. StandartSapma sınıfının HesaplaStandarSap( ) fonksiyonu gelen parametre olarak gelen dört sayının standart sapmasını hesaplamaktadır. ToplamCiftKontrol( ) metodu ise parametre olarak gelen sayıların toplamının tek yada çift olduğunu geri döndürmektedir.
